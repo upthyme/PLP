@@ -75,10 +75,10 @@ Doc comments are special type of comments that are interpreted as syntax for `ru
 
 ### References 
 
-[^JetBrains]: [The State of Developer Ecosystem 2021: Rust Survey](https://www.jetbrains.com/lp/devecosystem-2021/rust/)
-[^Rust]: [Rust project Tools](https://www.rust-lang.org/tools)
-[^RustComments]: [The Rust Programming Language 3.4 Comments](https://doc.rust-lang.org/book/ch03-04-comments.html)
-[^RustDocumentation]: [The Rust Programming Language 14.2 Plushing a Crate to Crates.io](https://doc.rust-lang.org/book/ch14-02-publishing-to-crates-io.html#making-useful-documentation-comments)
-[^RustFAQ]: [FAQ - Rust Project](https://web.archive.org/web/20160609195720/https://www.rust-lang.org/faq.html#project)
-[^RustGame]: [Rust: Are we game yet?](https://arewegameyet.rs/)
-[^StackOverflow]: [StackOverflow Blog: What is Rust and why is it so popular?](https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/)
+[^JetBrains]: ["The State of Developer Ecosystem 2021: Rust Survey,"](https://www.jetbrains.com/lp/devecosystem-2021/rust/) JetBrains. https://www.jetbrains.com/lp/devecosystem-2021/rust (Accessed May 23, 2022)
+[^Rust]: ["Rust project Tools,"](https://www.rust-lang.org/tools) rust-lang.org. https://www.rust-lang.org/tools (Accessed May 23, 2022)
+[^RustComments]: ["The Rust Programming Language 3.4 Comments.,"](https://doc.rust-lang.org/book/ch03-04-comments.html) docs.rust-lang.org. https://doc.rust-lang.org/book/ch03-04-comments.html (Accessed May 23, 2022)
+[^RustDocumentation]: ["The Rust Programming Language 14.2 Plushing a Crate to Crates.io.,"](https://doc.rust-lang.org/book/ch14-02-publishing-to-crates-io.html#making-useful-documentation-comments) docs.rust-lang.org. https://doc.rust-lang.org/book/ch14-02-publishing-to-crates-io.html#making-useful-documentation-comments (Accessed May 23, 2022)
+[^RustFAQ]: ["FAQ - Rust Project."](https://web.archive.org/web/20160609195720/https://www.rust-lang.org/faq.html#project) rust-lang.org. https://web.archive.org/web/20160609195720/https://www.rust-lang.org/faq.html#project (Accessed May 23, 2022)
+[^RustGame]: ["Rust: Are we game yet?"](https://arewegameyet.rs/) Arewegameyet? https://arewegameyet.rs (Accessed May 23, 2022)
+[^StackOverflow]: J. Goulding, ["The Overflow: What is Rust and why is it so popular?"](https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/) Stack Overflow. https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/ (Accessed May 23, 2022)

@@ -7,9 +7,7 @@ PLP is a repository containing homework assignments for the class's programming 
 
 **Rust**.
 
-> "Rust seems sensible"
-> 
->  - John Carmack [^Tweet]
+> "I'm still completely in the excited-newbie honeymoon phase, but writing Rust code feels very wholesome," - John Carmack [^Tweet]
 
 Meet Ferris, the unofficial mascot! :crab: :sparkles:
 
@@ -33,5 +31,5 @@ The Rust that is being used in this project is the stable version of 1.61.0. Rus
 
 ### References
 
-[^Ferris]: [Rustacean.net: Home of Ferris the crab](https://rustacean.net/)
-[^Tweet]: [Carmack, John [@ID_AA_Carmack]](https://twitter.com/ID_AA_Carmack/status/668811183307145217)
+[^Ferris]: K. R. Tölva, ["Rustacean.net: Home of Ferris the crab"](https://rustacean.net/). rustacean.net (Accessed May 23, 2022)
+[^Tweet]: J. Carmack. \[@ID_AA_Carmack\], "I'm still completely in the excited-newbie honeymoon phase",*Twitter*, Feb 9, 2019. Available: https://twitter.com/ID_AA_Carmack/status/668811183307145217 (Accessed May 31, 2022)
