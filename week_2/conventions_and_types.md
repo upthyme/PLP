@@ -40,7 +40,7 @@ struct MillsData {
 
 Rust is statically typed language. The types of all variables must be known at compiler time. 
 
-The type of variable *can* change with variable shadowing. 
+Can you change a variable type later? Yes, but you have to be mindful about ownership! You can use variable shadowing with the `let` keyword.
 
 **3. Strongly typed or weakly typed?**
 
@@ -107,6 +107,8 @@ Many people use the struct and enum types to represent classes that you might se
 Tuples are common because they allow for multiple different kinds of data types in one variable. Tuples are not just essential for their own use and design. Tuples are used for returning multiple values from a function. As far as I know, they're the only way of deconstructing.
 
 ### References 
-- [^NamingConventions]: ["Naming Conventions,"](https://doc.rust-lang.org/1.0.0/style/style/naming/README.html) doc.rust-lang.org. https://doc.rust-lang.org/1.0.0/style/style/naming/README.html (Accessed May 31, 2022)
-- [^DataTypes]: ["Data Types,"](https://doc.rust-lang.org/book/ch03-02-data-types.html) docs.rust-lang.org. https://doc.rust-lang.org/book/ch03-02-data-types.html (Accessed May 31, 2022)
-- [^RustDocumentation]" ["Types,"](https://doc.rust-lang.org/reference/types.html) docs.rust-lang.org. https://doc.rust-lang.org/reference/types.html
+
+[^DataTypes]: ["Data Types,"](https://doc.rust-lang.org/book/ch03-02-data-types.html) docs.rust-lang.org. https://doc.rust-lang.org/book/ch03-02-data-types.html (Accessed May 31, 2022)
+[^NamingConventions]: ["Naming Conventions,"](https://doc.rust-lang.org/1.0.0/style/style/naming/README.html) doc.rust-lang.org. https://doc.rust-lang.org/1.0.0/style/style/naming/README.html (Accessed May 31, 2022)
+[^RustReservedKeywords]: ["Keywords,"](https://doc.rust-lang.org/reference/keywords.html) doc.rust-lang.org. https://doc.rust-lang.org/reference/keywords.html (Accessed Aug 19, 2022)
+[^RustDocumentation]: ["Types,"](https://doc.rust-lang.org/reference/types.html) docs.rust-lang.org. https://doc.rust-lang.org/reference/types.html (Accessed Aug 19, 2022)
