@@ -38,7 +38,7 @@ struct MillsData {
 
 **2. Is your language statically or dynamically typed?**
 
-Rust is statically typed language. The types of all variables must be known at compiler time. 
+Rust is a statically typed language. The types of all variables must be known at compiler time. Sometimes, the compiler can infer the type when it is used. Other times, you must tell Rust _exactly what type_ the variable should be with type annotations [^DataTypes]
 
 Can you change a variable type later? Yes, but you have to be mindful about ownership! You can use variable shadowing with the `let` keyword.
 
@@ -71,7 +71,7 @@ Rust variables cannot be rewritten at default. Instead, they are assigned a comp
 
 **6. Are there built-in complex data types that are commonly used in your language? (hint: they’d probably appear fairly early in the documentation if so)**
 
-According to the Rust Documentation[^RustDocumentation], the following are the built-in types. 
+According to the Rust Documentation[^RustDocumentationTypes], the following are the built-in types. 
 
 Primitive types:
 - Boolean
@@ -104,11 +104,14 @@ Trait types:
 
 Many people use the struct and enum types to represent classes that you might see in object oriented languages (eg. Java). Like class methods, you can define implementation functions for the struct. 
 
-Tuples are common because they allow for multiple different kinds of data types in one variable. Tuples are not just essential for their own use and design. Tuples are used for returning multiple values from a function. As far as I know, they're the only way of deconstructing.
+Tuples are common because they allow for multiple different kinds of data types in one variable. Tuples are not just essential for their own use and design. Tuples are often used for returning multiple values from a functions.
 
 ### References 
 
-[^DataTypes]: ["Data Types,"](https://doc.rust-lang.org/book/ch03-02-data-types.html) docs.rust-lang.org. https://doc.rust-lang.org/book/ch03-02-data-types.html (Accessed May 31, 2022)
-[^NamingConventions]: ["Naming Conventions,"](https://doc.rust-lang.org/1.0.0/style/style/naming/README.html) doc.rust-lang.org. https://doc.rust-lang.org/1.0.0/style/style/naming/README.html (Accessed May 31, 2022)
-[^RustReservedKeywords]: ["Keywords,"](https://doc.rust-lang.org/reference/keywords.html) doc.rust-lang.org. https://doc.rust-lang.org/reference/keywords.html (Accessed Aug 19, 2022)
-[^RustDocumentation]: ["Types,"](https://doc.rust-lang.org/reference/types.html) docs.rust-lang.org. https://doc.rust-lang.org/reference/types.html (Accessed Aug 19, 2022)
+[^DataTypes]: , ["Data Types,"](https://doc.rust-lang.org/book/ch03-02-data-types.html). docs.rust-lang.org. https://doc.rust-lang.org/book/ch03-02-data-types.html (Accessed May 31, 2022)
+
+[^NamingConventions]: , ["Naming Conventions,"](https://doc.rust-lang.org/1.0.0/style/style/naming/README.html). doc.rust-lang.org. https://doc.rust-lang.org/1.0.0/style/style/naming/README.html (Accessed May 31, 2022)
+
+[^ReservedKeywords]: , ["Keywords,"](https://doc.rust-lang.org/reference/keywords.html). doc.rust-lang.org. https://doc.rust-lang.org/reference/keywords.html (Accessed Aug 19, 2022)
+
+[^RustDocumentationTypes]: , ["Types,"](https://doc.rust-lang.org/reference/types.html). docs.rust-lang.org. https://doc.rust-lang.org/reference/types.html (Accessed Aug 19, 2022)
