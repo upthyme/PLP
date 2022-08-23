@@ -124,8 +124,8 @@ impl CountMoney for safe {
 
 ### References 
 
-- [^Enum]: , [Enums](https://doc.rust-lang.org/rust-by-example/custom_types/enum.html) doc.rust-lang.org https://doc.rust-lang.org/rust-by-example/custom_types/enum.html (Accessed August 22, 2022)
-- ["Naming]: , [Naming Conventions](https://doc.rust-lang.org/1.0.0/style/style/naming/README.html) doc.rust-lang.org https://doc.rust-lang.org/1.0.0/style/style/naming/README.html (Accessed August 22, 2022)
-- [^Trait]: , [Trait std::string::ToString](https://doc.rust-lang.org/std/string/trait.ToString.html) doc.rust-lang.org https://doc.rust-lang.org/std/string/trait.ToString.html (Accessed July 2, 2022)
-- [^Tutorial]: , [Inheritance with Traits](https://riptutorial.com/rust/example/22917/inheritance-with-traits) riptutorial.org https://riptutorial.com/rust/example/22917/inheritance-with-traits (Accessed August 22, 2022)
-- [^StackOverflow]: , [Why doesn't Rust support overloading function or method?](https://stackoverflow.com/questions/56508697/why-doesnt-rust-support-overloading-function-or-method) stackoverflow https://stackoverflow.com/questions/56508697/why-doesnt-rust-support-overloading-function-or-method (Accessed August 22, 2022)
+[^Enum]: , [Enums](https://doc.rust-lang.org/rust-by-example/custom_types/enum.html) doc.rust-lang.org https://doc.rust-lang.org/rust-by-example/custom_types/enum.html (Accessed August 22, 2022)
+[^Naming]: , [Naming Conventions](https://doc.rust-lang.org/1.0.0/style/style/naming/README.html) doc.rust-lang.org https://doc.rust-lang.org/1.0.0/style/style/naming/README.html (Accessed August 22, 2022)
+[^Trait]: , [Trait std::string::ToString](https://doc.rust-lang.org/std/string/trait.ToString.html) doc.rust-lang.org https://doc.rust-lang.org/std/string/trait.ToString.html (Accessed July 2, 2022)
+[^Tutorial]: , [Inheritance with Traits](https://riptutorial.com/rust/example/22917/inheritance-with-traits) riptutorial.org https://riptutorial.com/rust/example/22917/inheritance-with-traits (Accessed August 22, 2022)
+[^StackOverflow]: , [Why doesn't Rust support overloading function or method?](https://stackoverflow.com/questions/56508697/why-doesnt-rust-support-overloading-function-or-method) stackoverflow https://stackoverflow.com/questions/56508697/why-doesnt-rust-support-overloading-function-or-method (Accessed August 22, 2022)
