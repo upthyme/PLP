@@ -100,7 +100,7 @@ fn spin (paint: &Paint) {
 
 Even though we often pass in references to functions, the references act as values that are passed in by value to the function. A reference of a variable `number_of_carrots` would be `&number_of_carrots` and point to an address we can follow to access data at that address.
 
-Note that if we wanted to change the value of variable `xpaint`, we could pass in a mutable reference like `mut &x`.
+Note that if we wanted to change the value of variable `xpaint`, we could pass in a mutable reference like `mut &xpaint`.
 
 It is confusing that we are _pass by value_ even when we are literally passing in _references_ in Rust. Try to remember that Rust's main goal is memory safety. To achieve that, there is a concept of ownership. Each value has a owner, there is only one owner at a time, and when the owner goes out of scope - the value is dropped [^Ownership].
 

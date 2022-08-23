@@ -38,6 +38,7 @@ Classwork is organized by week.
     * [func_pass_by_ref_or_value.rs](./week_4/func_pass_by_ref_or_value.rs)
 * [week_5](./week_5/)
     * [structs.md](./week_5/structs.md)
+    * [persons.rs](./week_5/persons.rs)
 
 ## Download 
 

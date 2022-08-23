@@ -1,3 +1,5 @@
+// If you want to print a custom type, you need to define how
+// Make a formtat (fmt) Display trait for the struct
 // https://doc.rust-lang.org/std/fmt/trait.Display.html
 
 fn main(){
